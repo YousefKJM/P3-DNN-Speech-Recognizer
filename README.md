@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-In this notebook, you will build a deep neural network that functions as part of an end-to-end automatic speech recognition (ASR) pipeline!  
+In this notebook, I have built a deep neural network that functions as part of an end-to-end automatic speech recognition (ASR) pipeline!  
 
 ![ASR Pipeline][image1]
 
